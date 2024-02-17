@@ -1,0 +1,14 @@
+{
+  "parent1": {
+    "child1": {
+      "hello": "sali"
+    },
+    "goodbye": "whatever"
+  },
+  "parent2": {
+    "child2": {
+      "hello": "todo translate - Hello"
+    },
+    "goodbye": "todo translate - Goodbye"
+  }
+}

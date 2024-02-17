@@ -1,0 +1,14 @@
+{
+  "parent1": {
+    "child1": {
+      "hello": "Hello"
+    },
+    "goodbye": "Goodbye"
+  },
+  "parent2": {
+    "child2": {
+      "hello": "Hello"
+    },
+    "goodbye": "Goodbye"
+  }
+}
